@@ -1,0 +1,23 @@
+<package>
+  <name>robotiq_s_model_visualization</name>
+  <version>1.0.0</version>
+  <description>robotiq</description>
+  <maintainer email="ttan@elektro.dtu.dk">Thomas Timm Andersen</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/robotiq_s_model_visualization</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <author>Shaun Edwards</author>
+
+  <!-- Dependencies which this package needs to build itself. -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Dependencies needed to compile this package. -->
+
+  <!-- Dependencies needed after this package is compiled. -->
+
+  <!-- Dependencies needed only for running tests. -->
+
+</package>

@@ -1,0 +1,24 @@
+<package>
+  <name>robotiq_modbus_tcp</name>
+  <version>1.0.0</version>
+  <description>A stack to communicate with Robotiq grippers using the Modbus TCP protocol</description>
+  <maintainer email="ttan@elektro.dtu.dk">Thomas Timm Andersen</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/robotiq_modbus_tcp</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <author>Nicolas Lauzier (Robotiq inc.)</author>
+
+  <!-- Dependencies which this package needs to build itself. -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>python-pymodbus</run_depend>
+
+  <!-- Dependencies needed to compile this package. -->
+
+  <!-- Dependencies needed after this package is compiled. -->
+
+  <!-- Dependencies needed only for running tests. -->
+
+</package>

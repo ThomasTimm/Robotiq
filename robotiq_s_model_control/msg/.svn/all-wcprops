@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_control/msg
+END
+SModel_robot_input.msg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_control/msg/SModel_robot_input.msg
+END
+SModel_robot_output.msg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_control/msg/SModel_robot_output.msg
+END

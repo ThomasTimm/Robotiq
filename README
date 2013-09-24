@@ -1,0 +1,21 @@
+Robotiq
+=======
+
+Based of the original Robotiq drivers from Fuerte, now catkinized
+
+Only the C model has been tested
+
+
+USE
+===
+Start the node for commnicating with the controller:
+rosrun robotiq_c_model_control CModelTcpNode 192.38.66.222
+
+
+To control the gripper, use the simple interface
+rosrun robotiq_s_model_control SModelSimpleController
+
+
+To get debug information, use
+rosrun robotiq_s_model_control SModelStatusListener
+

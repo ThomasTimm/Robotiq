@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/449/trunk/robotiq/robotiq_modbus_tcp/src/robotiq_modbus_tcp
+END
+comModbusTcp.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/449/trunk/robotiq/robotiq_modbus_tcp/src/robotiq_modbus_tcp/comModbusTcp.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/449/trunk/robotiq/robotiq_modbus_tcp/src/robotiq_modbus_tcp/__init__.py
+END

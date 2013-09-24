@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1104/trunk/robotiq/robotiq_s_model_visualization/cfg
+END
+s-model_mesh.urdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_mesh.urdf
+END
+s-model_mesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_mesh.xml
+END
+s-model_articulated.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_articulated.xacro
+END
+s-model_articulated_macro.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_articulated_macro.xacro
+END
+s-model_articulated.urdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_articulated.urdf
+END
+s-model_finger_articulated_macro.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_finger_articulated_macro.xacro
+END
+s-model_mesh.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_mesh.xacro
+END
+s-model_mesh_macro.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1104/trunk/robotiq/robotiq_s_model_visualization/cfg/s-model_mesh_macro.xacro
+END

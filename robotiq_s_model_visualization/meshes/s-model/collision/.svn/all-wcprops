@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision
+END
+GRIPPER_CLOSED.stl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision/GRIPPER_CLOSED.stl
+END
+GRIPPER_OPEN_PALM.stl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision/GRIPPER_OPEN_PALM.stl
+END
+GRIPPER_OPEN_FINGER_1.stl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision/GRIPPER_OPEN_FINGER_1.stl
+END
+GRIPPER_OPEN_FINGER_2.stl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision/GRIPPER_OPEN_FINGER_2.stl
+END
+GRIPPER_OPEN_FINGER_3.stl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision/GRIPPER_OPEN_FINGER_3.stl
+END
+GRIPPER_OPEN.stl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/449/trunk/robotiq/robotiq_s_model_visualization/meshes/s-model/collision/GRIPPER_OPEN.stl
+END

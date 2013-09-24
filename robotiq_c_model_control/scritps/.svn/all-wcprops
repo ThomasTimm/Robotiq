@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/449/trunk/robotiq/robotiq_c_model_control/nodes
+END
+CModelStatusListener.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/449/trunk/robotiq/robotiq_c_model_control/nodes/CModelStatusListener.py
+END
+CModelTcpNode.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/449/trunk/robotiq/robotiq_c_model_control/nodes/CModelTcpNode.py
+END
+CModelSimpleController.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/449/trunk/robotiq/robotiq_c_model_control/nodes/CModelSimpleController.py
+END
